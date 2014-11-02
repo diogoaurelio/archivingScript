@@ -1,0 +1,205 @@
+
+Archiving date: 02/11/2014
+Archiving Start Time: 19:58:03
+File Path is: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/archivingScript.py and file name is: archivingScript.py
+File Path is: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder/archivingScript.py and file name is: archivingScript.py
+File Path is: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder2/archivingScript.py and file name is: archivingScript.py
+
+Archiving End Time: 19:58:03
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:00:20
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:00:33
+File Path is: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/archivingScript.py and file name is: archivingScript.py
+File Path is: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder/archivingScript.py and file name is: archivingScript.py
+File Path is: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder2/archivingScript.py and file name is: archivingScript.py
+
+Archiving End Time: 20:00:33
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:12:35
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:12:44
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:14:17
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:18:40
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:19:06
+Error: Is a directory
+Archiving date: 02/11/2014
+Archiving Start Time: 20:20:26
+Error: Is a directoryError: No such file or directoryError: No such file or directory
+Archiving End Time: 20:20:26
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:21:49
+Error: No such file or directoryError: No such file or directory
+Archiving End Time: 20:21:49
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:24:17
+Error: No such file or directoryError: No such file or directory
+Archiving End Time: 20:24:17
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:28:09
+Error: Is a directory
+Archiving End Time: 20:28:09
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:31:20
+Error: No such file or directory
+Archiving End Time: 20:31:20
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:33:40
+Error: No such file or directory
+Archiving End Time: 20:33:40
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:34:01
+Error: No such file or directorytest.txt/Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving End Time: 20:34:01
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:35:41
+Error: No such file or directorytest.txt
+/Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving End Time: 20:35:41
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:36:46
+Error: No such file or directory
+test.txt
+/Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving End Time: 20:36:46
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:40:22
+Error: No such file or directory
+test.txt
+/Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving End Time: 20:40:22
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:45:08
+Error: No such file or directory
+test.txt
+/Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving End Time: 20:45:08
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:46:56
+Error: No such file or directory
+File Name: test.txt
+Final Destination Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder2/test.txt
+Archiving End Time: 20:46:56
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:47:44
+Error: No such file or directory
+File Name: test.txt
+Final Destination Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder2/test.txt
+Archiving End Time: 20:47:44
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:48:18
+Error: No such file or directory
+File Name: test.txt
+Final Destination Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder2
+Archiving End Time: 20:48:18
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:49:43
+Error: Is a directory
+File Name: test.txt
+Final Destination Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder2
+Archiving End Time: 20:49:43
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:51:02
+
+Archiving End Time: 20:51:02
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:51:32
+
+Archiving End Time: 20:51:32
+
+Archiving date: 02/11/2014
+Archiving Start Time: 20:52:37
+File Path is: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder/test.txt and file name is: test.txt
+
+Archiving End Time: 20:52:37
+
+Archiving date: 02/11/2014
+Archiving Start Time: 21:00:04
+File: test.txt	Time: 21:00:04	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving End Time: 21:00:04
+
+Archiving date: 02/11/2014
+Archiving Start Time: 21:09:31
+
+Archiving date: 02/11/2014
+Archiving Start Time: 21:10:21
+File: test.txt	Time: 21:10:21	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving date: 02/11/2014
+Archiving Start Time: 21:11:07
+File: test.txt	Time: 21:11:07	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving End Time: 21:11:07
+
+Archiving date: 02/11/2014
+Archiving Start Time: 21:11:49
+File: test.txt	Time: 21:11:49	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving End Time: 21:11:49
+
+Archiving date: 02/11/2014
+Archiving Start Time: 21:14:51
+File: test.txt	Time: 21:14:51	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving End Time: 21:14:51
+
+Archiving date: 02/11/2014
+Archiving Start Time: 21:17:20
+File: test.txt	Time: 21:17:20	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving date: 02/11/2014
+Archiving Start Time: 21:18:44
+File: test.txt	Time: 21:18:44	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving date: 02/11/2014
+Archiving Start Time: 21:22:36
+File: test.txt	Time: 21:22:36	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving date: 02/11/2014
+Archiving Start Time: 21:24:39
+File: test.txt	Time: 21:24:39	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving End Time: 21:24:39
+
+Archiving date: 02/11/2014
+Archiving Start Time: 21:24:50
+File: test.txt	Time: 21:24:50	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving End Time: 21:24:50
+
+Archiving date: 02/11/2014
+Archiving Start Time: 21:28:27
+Copy Operation File: test.txt	Time: 21:28:27	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving date: 02/11/2014
+Archiving Start Time: 21:30:56
+Copy Operation File: test.txt	Time: 21:30:56	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving date: 02/11/2014
+Archiving Start Time: 21:31:47
+Copy Operation File: test.txt	Time: 21:31:47	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving date: 02/11/2014
+Archiving Start Time: 21:36:20
+Copy Operation File: test.txt	Time: 21:36:20	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving date: 02/11/2014
+Archiving Start Time: 21:36:44
+Copy Operation File: test.txt	Time: 21:36:44	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving date: 02/11/2014
+Archiving Start Time: 21:37:29
+Copy Operation File: test.txt	Time: 21:37:29	Path: /Users/DiogoAdmin/Documents/Developer/Python/ArchivingScript/testFolder
+Archiving End Time: 21:37:29
