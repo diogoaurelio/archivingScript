@@ -49,24 +49,35 @@ class ArchiveFiles:
     							with open(fileDestPath, 'wb') as fdest:
     								copy = shutil.copyfileobj(fsrc,fdest,buffer_size)
     								copy
-    								self._backupLog('Copy Operation File: '+str(i)+ '\t' + 'Time: '+ str(time.strftime("%H:%M:%S")) + '\t'+ 'Path: '+ str(srcPath))
+    								self._backupLog('Copy Operation File: '+str(i)+ '\t' + 'Time: '+ str(time.strftime("%H:%M:%S")) + '\t'+ 'Path: '+ str(srcPath)+'\n')
     								s.append(i)
     					except shutil.Error as e:
     						self._backupLog('Error: %s' % e + '\t' + 'File: '+str(i)+ '\t' + 'Time: '+ str(time.strftime("%H:%M:%S")) + '\n')
     					except IOError as e:
     						self._backupLog('Error: %s' % e.strerror  + '\t' + 'File: '+str(i)+ '\t' + 'Time: '+ str(time.strftime("%H:%M:%S")) + '\n')
-    	
+    	if len(s) >0:
+            for (dirpath,dirnames,filenames) in walk(srcPath):
+                for cfile in f:
+                    for sfile in s:
+                        if cfile == sfile:
+                            try:
+                                filetoDelete = join(srcPath, cfile)
+                                os.remove(filetoDelete)
+                                self._backupLog('Delete Operation File: '+str(cfile)+ '\t' + 'Time: '+ str(time.strftime("%H:%M:%S")) + '\n')
+                            except OSError, e:
+                                self._backupLog('Error deleting file: %s - %s.' % (e.filename, e.strerror) + '\t' + 'Time: '+ str(time.strftime("%H:%M:%S")) + '\n')
     	# 3) Delete only files that have been successfully copied:
-		if len(s) > 0:
-			#For each file in the directory:
-			for j in walk(srcPath):
-				#for each file successfully copied:
-				for k in s:
-					#fileSrcPath = join(dirpath, j)
-					if str(j) == k:
-						print(str(k))
-						os.chdir(srcPath).remove(j)
-						self._backupLog('Delete Operation File: '+str(j)+ '\t' + 'Time: '+ str(time.strftime("%H:%M:%S")))
+		# if len(s) > 0:
+  #           for (dirpath, dirnames, filenames) in walk(srcPath):
+  #               for cfile in f:
+		# 		    for sfile in s:
+		# 			#fileSrcPath = join(dirpath, j)
+		# 			   if cfile == sfile:
+		# 				#print(str(k))
+  #                       #self._backupLog('File to delete: '+str(k)+'\n')
+  #                       #self._backupLog( str(os.chdir(srcPath)) )
+  #                       #os.chdir(srcPath).remove(j)
+  #                       self._backupLog('Delete Operation File: '+str(cfile)+ '\t' + 'Time: '+ str(time.strftime("%H:%M:%S")))
 
 	
 
